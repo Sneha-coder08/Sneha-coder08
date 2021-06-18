@@ -43,4 +43,17 @@
 </p>
 
 <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sneha-coder08&show_icons=true&locale=en" alt="Sneha-KS" />
+
+<img alt="My Github stats" align="center" border-radius="40px" width="1000px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sneha-coder08&layout=compact" alt="Sneha-KS" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sneha-coder08&show_icons=true&locale=en&layout=compact" alt="Sneha-KS" />
+
+<br><br><br><br><br><br><br><br>
+
+## ❤ Views and Followers
+<a href="https://github.com/Sneha-coder08/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Sneha-coder08">
+</a>
+<a href="https://github.com/Sneha-coder08?tab=followers"><img src="https://img.shields.io/github/followers/Sneha-coder08?label=Followers&style=social" alt="GitHub Badge"></a>
 
