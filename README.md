@@ -16,8 +16,8 @@
 <h3 align="left">✔️Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sneha-ks-constant-learner/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumita-biswas-88b0941ab" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_i_a_m_s_n_e_h_a_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.soumita._" height="30" width="40" /></a>
-<a href="https://github.com/Sneha-coder08" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GOURAV-CHAWLA" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_i_a_m_s_n_e_h_a_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sneha" height="30" width="40" /></a>
+<a href="https://github.com/Sneha-coder08" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="SNEHA K S" height="30" width="40" /></a>
 
 </p>
 
@@ -44,16 +44,3 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GOURAV-CHAWLA&show_icons=true&locale=en" alt="GOURAV-CHAWLA" />
-
-<img alt="My Github stats" align="center" border-radius="40px" width="1000px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=GOURAV-CHAWLA&layout=compact" alt="GOURAV-CHAWLA" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GOURAV-CHAWLA&show_icons=true&locale=en&layout=compact" alt="GOURAV-CHAWLA" />
-
-<br><br><br><br><br><br><br><br>
-
-## ❤ Views and Followers
-<a href="https://github.com/GOURAV-CHAWLA/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=GOURAV-CHAWLA">
-</a>
-<a href="https://github.com/GOURAV-CHAWLA?tab=followers"><img src="https://img.shields.io/github/followers/GOURAV-CHAWLA?label=Followers&style=social" alt="GitHub Badge"></a>
