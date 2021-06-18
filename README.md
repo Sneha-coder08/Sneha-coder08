@@ -1,17 +1,17 @@
-<img src="https://i.imgur.com/iXuL1HG.png" alt="GOURAV-CHAWLA" /> 
+<img src="https://i.imgur.com/iXuL1HG.png" alt="SNEHA K S" /> 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gourav </h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
-- 🙋‍♀️ **I’m final year B.Tech CSE student from SIET**
+- 🙋‍♀️ **I’m 2nd year B.E CSE student from ACET**
 
-- 👩‍💻 **Currently learning Full Stack Development**
+- 👩‍💻 **Currently learning machine learning**
 
-- 🤝 **I’m looking to collaborate on my projects**
+- 🤝 **Actively looking for internships**
 
-- 💁‍♀️ **All of my projects are available at [here](https://github.com/GOURAV-CHAWLA?tab=repositories)**
+- 💁‍♀️ **All of my projects are available at [here](https://github.com/Sneha-coder08?tab=repositories)**
 
 
-- 📫 **Reach me at gouravchawla333@gmail.com**
+- 📫 **Reach me at sneha2002ks@gmail.com**
 
 <h3 align="left">✔️Connect with me:</h3>
 <p align="left">
