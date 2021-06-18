@@ -8,7 +8,7 @@
 
 - 🤝 **Actively looking for internships**
 
-- 💁‍♀️ **All of my projects are available at [here](https://github.com/Sneha-coder08?tab=repositories)**
+- 💁‍♀️ **All of my projects are available at [Sneha-coder08](https://github.com/Sneha-coder08?tab=repositories)**
 
 
 - 📫 **Reach me at sneha2002ks@gmail.com**
