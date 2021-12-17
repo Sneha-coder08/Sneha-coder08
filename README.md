@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sneha K S </h1>
 <h3 align="center">Girl with million dreams.</h3>
 
-- 🙋‍♀️ **I’m 2nd year B.E CSE student from ACET**
+- 🙋‍♀️ **I’m 3rd year B.E CSE student from ACET**
 
 - 👩‍💻 **Currently learning machine learning**
 
