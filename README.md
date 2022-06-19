@@ -12,7 +12,7 @@
 
 <h3 align="left">✔️Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sneha-ks-constant-learner/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumita-biswas-88b0941ab" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/sneha-ks-constant-learner/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumita-biswas-88b0941ab" height="30" width="40" /></a>
 <a href="[[[[https://www.instagram.com/_sneha.ks_/](https://www.instagram.com/_sneha.ks_/)](https://www.instagram.com/_sneha.ks_/)](https://www.instagram.com/_sneha.ks_/)](https://www.instagram.com/_sneha.ks_/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sneha" height="30" width="40" /></a>
 <a href="https://github.com/Sneha-coder08" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="SNEHA K S" height="30" width="40" /></a>
 
