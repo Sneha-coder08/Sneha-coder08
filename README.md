@@ -2,21 +2,18 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sneha K S </h1>
 <h3 align="center">Girl with million dreams.</h3>
 
-- 🙋‍♀️ **I’m 3rd year B.E CSE student from ACET**
-
-- 👩‍💻 **Currently learning machine learning**
+- 🙋‍♀️ **I’m 3rd year B.E CSE student from Amrita College of Engineering and Technology**
 
 - 🤝 **Actively looking for internships**
 
 - 💁‍♀️ **All of my projects are available at [Sneha-coder08](https://github.com/Sneha-coder08?tab=repositories)**
-
 
 - 📫 **Reach me at sneha2002ks@gmail.com**
 
 <h3 align="left">✔️Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sneha-ks-constant-learner/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumita-biswas-88b0941ab" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_i_a_m_s_n_e_h_a_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sneha" height="30" width="40" /></a>
+<a href="[[[[https://www.instagram.com/_sneha.ks_/](https://www.instagram.com/_sneha.ks_/)](https://www.instagram.com/_sneha.ks_/)](https://www.instagram.com/_sneha.ks_/)](https://www.instagram.com/_sneha.ks_/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sneha" height="30" width="40" /></a>
 <a href="https://github.com/Sneha-coder08" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="SNEHA K S" height="30" width="40" /></a>
 
 </p>
